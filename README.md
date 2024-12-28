@@ -2,4 +2,4 @@
 
 ## Helpdesk URL - seb.phoenix@yahoo.com
 
-## Privacy Policy - 
+## Privacy Policy - https://github.com/sebphoenix/SBBrowser/blob/main/Licenses.html
